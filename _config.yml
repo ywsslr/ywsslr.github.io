@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 小白日记
+subtitle: 小白的第一个自创blog
+description: 这年头,不多学点东西,心里不踏实
+keywords: python
+author: lrong
+language: zh-CN
 timezone: ''
 
 # URL
