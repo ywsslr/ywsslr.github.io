@@ -5,7 +5,7 @@
 # Site
 title: 小白日记
 subtitle: 小白的第一个自创blog
-description: 这年头,不多学点东西,心里不踏实
+description: 小白学习向前冲
 keywords: python
 author: lrong
 language: zh-CN
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next 
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
