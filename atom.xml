@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-03T02:36:04.907Z</updated>
+  <updated>2023-12-09T13:24:03.888Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>上古天真论篇</title>
+    <link href="http://example.com/2023/12/09/%E4%B8%8A%E5%8F%A4%E5%A4%A9%E7%9C%9F%E8%AE%BA%E7%AF%87/"/>
+    <id>http://example.com/2023/12/09/%E4%B8%8A%E5%8F%A4%E5%A4%A9%E7%9C%9F%E8%AE%BA%E7%AF%87/</id>
+    <published>2023-12-09T12:38:46.615Z</published>
+    <updated>2023-12-09T13:24:03.888Z</updated>
+    
+    <content type="html"><![CDATA[<p>昔在黄帝,生而神灵,弱而能言,幼而徇齐,长而敦敏,成而登天.<br>乃问于天师曰:余闻上古之人,春秋皆度百岁,而动作不衰;今时之人,年半百而动作皆衰者,时世异耶?人将失之耶?<br>岐伯对曰:上古之人,其知道也,法于阴阳,知于术数,食饮有节,起居有常,不妄劳作,故能形与神俱,而尽终其天年,度百岁而去.今时之人不然也,以酒为浆,以妄为常,醉以入房,以欲竭其精,以耗散其真.不知持满,不时御神,务快其心,逆于生乐,起居无节,故半百而衰也.<br>夫上古圣人之教也,下皆为之.虚邪贼风,避之有时,恬淡虚无,真气从之,精神内守,病安从来?是以志闲而少欲,心安而不惧,形劳而不倦.气从以顺,各从所欲,皆得所愿.故美其食,任其服,乐其俗,高下不相慕,其民故自朴.是以嗜欲不能劳其目,淫邪不能惑其心.愚智贤不肖,不惧于物,故合于道.所以能年皆度百岁而动作不衰者,以其德全不危故也.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;昔在黄帝,生而神灵,弱而能言,幼而徇齐,长而敦敏,成而登天.&lt;br&gt;乃问于天师曰:余闻上古之人,春秋皆度百岁,而动作不衰;今时之人,年半百而动作皆衰者,时世异耶?人将失之耶?&lt;br&gt;岐伯对曰:上古之人,其知道也,法于阴阳,知于术数,食饮有节,起居有常,不妄劳作,故能形与神俱</summary>
+      
+    
+    
+    
+    <category term="黄帝内经" scheme="http://example.com/categories/%E9%BB%84%E5%B8%9D%E5%86%85%E7%BB%8F/"/>
+    
+    
+    <category term="养生" scheme="http://example.com/tags/%E5%85%BB%E7%94%9F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hello</title>
     <link href="http://example.com/2023/12/03/hello/"/>
     <id>http://example.com/2023/12/03/hello/</id>
     <published>2023-12-03T02:09:19.000Z</published>
-    <updated>2023-12-03T02:36:04.907Z</updated>
+    <updated>2023-12-09T13:25:09.222Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to my blog, and this is my first blog. The only thing we should know is that Tomorrow is better!Thanks.  </p>]]></content>
     
@@ -34,6 +58,8 @@
     
     
     
+    <category term="hello" scheme="http://example.com/categories/hello/"/>
+    
     
     <category term="hello" scheme="http://example.com/tags/hello/"/>
     
@@ -44,7 +70,7 @@
     <link href="http://example.com/2023/12/02/hello-world/"/>
     <id>http://example.com/2023/12/02/hello-world/</id>
     <published>2023-12-02T14:03:49.288Z</published>
-    <updated>2023-12-02T14:03:49.288Z</updated>
+    <updated>2023-12-09T13:25:10.509Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -56,6 +82,10 @@
     
     
     
+    <category term="hello" scheme="http://example.com/categories/hello/"/>
+    
+    
+    <category term="hello" scheme="http://example.com/tags/hello/"/>
     
   </entry>
   
